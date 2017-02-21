@@ -1,0 +1,116 @@
+body
+{
+	background-color: #80dfff;
+
+}
+div.Container
+{
+	width: 1000px;
+	margin: auto;
+}
+div.Footer
+{
+	text-align: left-side;
+	height: 60px;
+	font-size:12pt;
+	font-style: italic;
+	font-style: bold;
+	background-color: #4da5ff;
+	border-radius: 300px;
+}
+fieldset.Menu
+{
+	height: 200px;
+	margin: inherit;
+	background-color: #4da5ff;
+	border-radius: 8px;
+	border: 0px;	
+}
+fieldset.Log
+{
+	height: 200px;
+	margin: inherit;
+	background-color: #4da5ff;
+	border-radius: 8px;
+	border: 0px;
+}
+fieldset.Intro
+{
+	height:400px;
+	margin: auto;
+	background-color: #4da5ff;
+	border-radius: 8px;
+	border: 0px;
+}
+fieldset.MainMenu
+{
+	width:750px;
+	margin: auto;
+	background-color: #4da5ff;
+	border-radius: 8px;
+	border: 0px;
+}
+fieldset.Contact
+{
+	
+	margin: auto;
+	background-color: #4da5ff;
+	border-radius: 8px;
+	border: 0px;
+}
+.Header
+{
+	text-align: center;
+	font-family: magneto;
+	
+}
+table.NavBar
+{
+	text-align: center;
+	font-family: magneto;
+	font-size: 22pt;
+	
+}
+.Subhead
+{
+	text-align: center;
+	font-size: 20pt;
+	font-family: magneto;
+	color: white;
+}
+.SubSubhead
+{
+	text-align: left;
+	font-size: 16pt;
+	font-family: magneto;
+	color: white;
+}
+td.Item
+{
+	text-align:center;
+	font-size: 12pt;
+	font-family: Bodoni MT;
+	font-style: italic;
+	color: black;
+}
+p.Introduction
+{
+	font-family: Times New Roman;
+	font-size: 16pt;
+	text-align: center;
+}
+a:link
+{
+	text-decoration: none;
+	color: #000000;
+}
+a:visited
+{
+	color: #000000;
+	text-decoration: none;
+}
+a:hover
+{
+	color:#ffffff;
+	text-decoration: underline;
+}
